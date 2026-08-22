@@ -28,6 +28,29 @@ for 8 concurrent long-context requests.
 Hardware: 2x RTX 5090 (32 GB), PCIe cross-NUMA, **no P2P** (`nvidia-smi topo -p2p r` reports unsupported).
 Base image: `runpod/pytorch` Ubuntu 24.04, torch cu128.
 
+## 🖥️ Single-GPU variant: 1x RTX PRO 6000 96GB (`scripts/serve_1gpu.sh`)
+
+Measured 22 Aug 2026: the same model on **one** RTX PRO 6000 Blackwell (96 GB) with TP1
+**beats the 2x 5090 TP2 pair** — no tensor parallelism means no NCCL walls at all, and the
+fp8 KV pool grows to 5.43M tokens at 262k `--max-model-len`.
+
+| Setup | 1 agent | 8 agents aggregate |
+|---|:---:|:---:|
+| 2x RTX 5090, TP2 | 110 tok/s | 838 tok/s |
+| **1x RTX PRO 6000, TP1** | **181–192 tok/s** | **1001 tok/s** |
+
+On the GRAPPA-grounded benchmark (8 agents, shared 16.5k-token paper, prefix cached):
+prime prefill 0.91 s, cached TTFT 0.18–1.2 s, 53–64 tok/s per agent sustained under full
+8x16.5k load. Note these grounded per-agent figures are **chunk-counted and therefore
+conservative**: with MTP, vLLM packs multiple accepted tokens into one SSE chunk, so
+chunk-based benches under-report by ~2.5x — measure from `usage.completion_tokens`
+(see the companion [`qwen-uncensored-blackwell-vllm`](../qwen-uncensored-blackwell-vllm)
+recipe, where the same corrected methodology gives its numbers).
+
+`scripts/start_1gpu.sh` boots it after a pod restart. One flag difference that matters for
+Qwen3.5-family checkpoints: `--tool-call-parser qwen3_xml` (with `hermes`, XML tool calls
+leak into message content).
+
 ## 🧠 Architecture
 
 ```mermaid
