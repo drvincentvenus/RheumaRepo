@@ -16,6 +16,8 @@ For a client that shows the model's reasoning as it streams, TTFT has the greate
 
 There is another distinction. Ornith reasons before producing its answer, while server TTFT records the first reasoning token. Thinking proceeds at decode speed, so at 8 streams (27 tok/s each) a few hundred reasoning tokens add over ten seconds before the answer starts; the synthetic runs of sections 2a to 2c did not log time to first visible token; the real-document run of section 2d does, and there it was 11.5 s for one cold agent and 37 s at 8 agents on a cached paper. Clients that stream reasoning (Hermes and OpenCode do) show activity at TTFT. A client that hides reasoning leaves the user waiting for TTFT plus thinking time. Decode speed therefore affects perceived latency in the projection whenever thinking is enabled.
 
+Reference point, the cloud APIs clinicians use today: at a 1k-token prompt (client-side, April 2026) Claude Sonnet 4.6 answers in 0.74 s at 104 tok/s, Claude Opus 4.7 0.85 s at 78, GPT-5.5 1.12 s at 92, Gemini 3 Pro 0.93 s at 84, Gemini 3 Flash 0.42 s at 200; with extended thinking the first answer token takes 8.4 s (GPT-5.5 Pro) to 28 s (Claude) to 52 s (Gemini Deep Think). Artificial Analysis (August 2026) lists Claude Sonnet 5 at 87.5 tok/s and Gemini 3.6 Flash at 210 tok/s with 17 s to first answer token in reasoning mode. Longer prompts add prefill time and provider prompt caching cuts TTFT by 50 to 85% on repeat use.
+
 ## 2. What we measured
 
 Hardware: MacBook Pro, Apple M4 Max, 40-core GPU, 128 GB, 546 GB/s. macOS 26.5.2.
@@ -163,6 +165,8 @@ Where the next round is decided is clustering. macOS 26.2 added RDMA over Thunde
 
 - MacRumors, 26 Aug 2026, New Mac Studio can be clustered together (RDMA over Thunderbolt 5; Apple: four systems up to 3x faster AI inference than one). https://www.macrumors.com/2026/08/26/new-mac-studio-can-be-clustered-together/
 - Apple Developer, WWDC26 session 233, Explore distributed inference and training with MLX (JACCL backend, RDMA over Thunderbolt 5 from macOS 26.2). https://developer.apple.com/videos/play/wwdc2026/233/
+- Digital Applied, AI model latency benchmarks 2026 (TTFT and TPS, 1,024-token input, client-side, 23 Apr 2026). https://www.digitalapplied.com/blog/ai-model-latency-benchmarks-2026-ttft-throughput
+- Artificial Analysis, model comparison (output speed, time to first answer token). https://artificialanalysis.ai/models
 - Apple newsroom, 25 Aug 2026, Mac Studio with M5 Max and M5 Ultra: 1.2 TB/s, up to 512 GB, up to 80-core GPU, M5 Ultra from $5,499. https://www.apple.com/newsroom/2026/08/apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra/
 - Apple, Mac Studio product page, performance chart 'LLM prompt processing': M5 Ultra 9.8x and M3 Ultra 2.4x vs M1 Ultra; M5 Max 10.7x and M4 Max 2.8x vs M1 Max; footnote: time to first token, 8K-token prompt, 14B model, 4-bit, LM Studio 0.4.19. https://www.apple.com/mac-studio/
 - llama.cpp discussion #4167, Apple Silicon performance table (Llama 7B Q4_0): pp512 M1 Max 32-core 530, M1 Ultra 64-core 1,030, M3 Ultra 80-core 1,471, M4 Max 40-core 886, M5 Max 3,220 tok/s; tg128 M3 Max 66, M4 Max 83, M3 Ultra 80-core 92, M5 Max 120 tok/s. https://github.com/ggml-org/llama.cpp/discussions/4167
