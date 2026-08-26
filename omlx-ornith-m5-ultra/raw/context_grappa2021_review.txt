@@ -1,0 +1,498 @@
+The Journal of Rheumatology 2023;50:426–32
+doi:10.3899/jrheum.220310
+First Release November 1 2022
+
+
+Management of Psoriatic Arthritis in Patients With
+Comorbidities: An Updated Literature Review Informing the
+2021 GRAPPA Treatment Recommendations
+Cristiano B. Campanholo1, Ajesh B. Maharaj2, Nadia Corp3, Stacie Bell4, Luisa Costa5,
+Kurt de Vlam6, Nicola J. Gullick7, Majed Khraishi8, Mitsumasa Kishimoto9,
+Natalia Palmou-Fontana10, Soumya Reddy11, Raffaele Scarpa12, Luis Vega13,
+Gleison Vieira Duarte14, Devy Zisman15, Danielle A. van der Windt16, Mehmet T. Duruoz17,
+and Alexis Ogdie18
+      ABSTRACT. Objective. The 2021 Group for Research and Assessment of Psoriasis and Psoriatic Arthritis (GRAPPA)
+                treatment recommendations provide an evidence-based guide for selecting therapy based on the individual’s
+                disease features. Beyond the disease features and associated conditions (eg, uveitis and inflammatory bowel
+                disease), comorbidities play an important role in selecting therapy for an individual patient.
+                Methods. We performed a systematic literature review. We examined the available evidence to inform treat-
+                ment selection based on the presence or absence of comorbidities in psoriatic arthritis (PsA).
+                Results. Common comorbidities in PsA that may affect treatment selection include presence of baseline car-
+                diovascular disease (CVD) or high risk for CVD, obesity and metabolic syndrome, liver disease, mood dis-
+                orders, including depression in particular, chronic infections, malignancies, osteoporosis, and fibromyalgia
+                and/or central sensitization.
+                Conclusion. Comorbidities may influence both the effectiveness of a given therapy but also the potential for
+                adverse events. It is important to assess for the presence of comorbidities prior to therapy selection.
+
+                      Key Indexing terms: comorbidities, GRAPPA, psoriatic arthritis, treatments
+
+
+
+
+1
+ C.B. Campanholo, MD, Santa Casa de São Paulo, São Paulo, Brazil;                         C.B. Campanholo and A.B. Maharaj are co–first authors.
+2
+ A.B. Maharaj, PhD, MBBS, Life Westville Hospital, Life Healthcare,                       ABM is a consultant and received honoraria from Janssen, ThermoFisher,
+Westville, South Africa; 3N. Corp, PhD, Primary Care Centre Versus                        Roche, Novartis, AbbVie, Eli Lilly, AstraZeneca, Pfizer, Zydus. LC received
+Arthritis, School of Medicine, Keele University, Staffordshire, UK; 4S. Bell,             consultancy fees and/or lecturer’s honoraria from AbbVie, Amgen, Novartis,
+PhD, National Psoriasis Foundation, Portland, Oregon, USA; 5L. Costa,                     Janssen, Lilly. NC consulted for and received honoraria from AbbVie, Celgene,
+MD, PhD, Department of Clinical Medicine and Surgery, University of                       Janssen, Lilly, Novartis, Pfizer, and UCB; and research funding from
+Naples Federico II, Naples, Italy; 6K. de Vlam, MD, PhD, Department of                    AbbVie, AstraZeneca, Izana, Lilly, and Novartis; and conference support
+Rheumatology, University Hospitals Leuven, Leuven, Belgium; 7N.J. Gullick,                from Celgene, Janssen, Lilly, UCB. M. Khraishi is a consultant for AbbVie,
+PhD, BMBS, Department of Rheumatology, University Hospitals Coventry                      Amgen, Eli Lilly, Novartis, Pfizer. M. Kishimoto received consulting fees and/
+& Warwickshire, and Warwick Medical School, University of Warwick,                        or lecturer’s honoraria from AbbVie, Amgen-Astellas, Asahi-Kasei, Astellas,
+UK; 8M. Khraishi, MD, Memorial University of Newfoundland, St.                            Ayumi, BMS, Chugai, Daiichi-Sankyo, Eisai, Eli Lilly, Gilead, Janssen,
+John’s, Newfoundland and Labrador, Canada; 9M. Kishimoto, MD, PhD,                        Kyowa Kirin, Novartis, Ono, Pfizer, Tanabe-Mitsubishi, Teijin, UCB.
+Department of Nephrology and Rheumatology, Kyorin University School of                    SR has consulted for Novartis, Janssen, AbbVie, UCB. GVD received
+Medicine, Tokyo, Japan; 10N. Palmou-Fontana, MD, PhD, Rheumatology                        consultancy fees and/or lecturer’s honoraria from Novartis, Janssen, AbbVie,
+Deparment, Marqués de Valdecilla University Hospital, Cantabria, Spain;                   Lilly, UCB, Sanofi-Aventis. RS received consultancy fees and/or lecturer’s
+11
+  S. Reddy, MD, New York University Grossman School of Medicine, New                      honoraria from AbbVie, Amgen, Novartis, Lilly. DZ received consulting
+York City, New York, USA; 12R. Scarpa, MD, Department of Clinical                         fees and/or lecturer’s honoraria from AbbVie, Eli Lilly, Gilead, Janssen,
+Medicine and Surgery, University of Naples Federico II, Naples, Italy;                    Novartis, Pfizer; and grant support from Pfizer, UCB, MSD. MTD
+13
+  L. Vega, MD, Section of Rheumatology, Central Hospital of Peruvian Air                  received consultancy fees and/or lecturer’s honoraria from AbbVie, Amgen,
+Force, Lima, Peru; 14G.V. Duarte, MD, PhD, Dermatology Division at                        Novartis, Janssen, Lilly. AO has consulted for AbbVie, Amgen, BMS, Celgene,
+IBIS, Instituto Bahiano de Imunoterapia, Salvador, Brazil; 15D. Zisman,                   CorEvitas, Gilead, Janssen, Kopa, Lilly, MoonLake, Novartis, Pfizer, UCB;
+MD, Rheumatology Unit, Carmel Medical Center, and the Ruth and Bruce                      and has received grant support from AbbVie, Amgen, Novartis, Pfizer. CBC,
+Rappaport Faculty of Medicine, Technion, Haifa, Israel; 16D.A. van der                    SB, KdeV, NJG, NPF, LV, and DAvdW declare no conflicts relevant to this
+                                                                                          article.
+Windt, PhD, Primary Care Centre Versus Arthritis, School of Medicine,
+Keele University, Staffordshire, UK; 17M.T. Duruoz, Rheumatology Division,                Address correspondence to Dr. A. Ogdie, Perelman School of Medicine,
+PMR Department, Marmara University School of Medicine, Istanbul,                          University of Pennsylvania, White 5023, 3400 Spruce St, Philadelphia, PA
+Turkey; 18A. Ogdie, MD, MSCE, Perelman School of Medicine, University of                  19104, USA. Email: ogdiea@pennmedicine.upenn.edu.
+Pennsylvania, Philadelphia, Pennsylvania, USA.                                            Accepted for publication August 16, 2022.
+
+                                              © 2023 The Journal of Rheumatology. This is an Open Access article, which
+                                              permits use, distribution, and reproduction, without modification, provided
+426                                           the original article is correctly cited and is not used for commercial purposes.                    Comorbidities in PsA
+
+
+                                                                                  Downloaded on March 3, 2026 from www.jrheum.org
+Psoriasis (PsO) and psoriatic arthritis (PsA) are associated with                   February 19, 2013.2 The search strategies are provided in the Supplementary
+several chronic conditions that may negatively affect treatment                     File (available with the online version of this article). The first addressed
+response, treatment-related adverse events (AEs), quality of life,                  the impact of comorbidities on treatment outcomes and was run on March
+                                                                                    30, 2020. The second addressed screening for comorbidities and was run on
+and longevity. Comorbidities of importance in PsA include
+                                                                                    January 13, 2021.
+cardiovascular disease (CVD), obesity and metabolic syndrome,
+                                                                                    Data extraction. After completing the initial search, 2 reviewers inde-
+liver disease (nonalcoholic fatty liver disease [NAFLD]),                           pendently assessed inclusion/exclusion criteria. Members of the working
+mood disorders including depression/anxiety, chronic infec-                         group then reviewed individual papers for full-text review and abstracted
+tions, malignancies, osteoporosis, and fibromyalgia (FM) and/                       key data on PICO (Table 1). We divided the search results into the relevant
+or central sensitization. The above must be considered during                       topics and working group members extracted data from each of the relevant
+the holistic evaluation of patients with PsA prior to selection                     papers and also performed hand searches to extract additional information
+of therapy and monitoring. Further, identifying comorbidities                       from related papers.
+through screening may improve patient outcomes and longevity.                       Synthesis of results. We qualitatively summarized results from the review.
+In a Danish cohort of patients with PsA, comorbidities were                         From this data, we created a set of statements about each topic area. We
+associated with higher baseline disease activity, shorter tumor                     then performed a Delphi process within our working group. Members of
+                                                                                    the working group were asked to vote on agreement or disagreement with
+necrosis factor inhibitor (TNFi) survival, and reduced clinical
+                                                                                    each statement. Areas of disagreement were refined and a repeat vote on
+response to therapy.1 PsA is also associated with extraarticular                    those items was conducted. With regard to screening recommendations, we
+manifestations, which include uveitis and inflammatory bowel                        specifically did not denote who should perform the screening as this may
+disease. These associated conditions are discussed by another                       have varied by country and/or region.
+working group. The objectives of our group were to (1) under-                       Ethics. This paper does not require institutional review board (IRB)/animal
+stand how comorbidities affect treatment choices and guide                          approval.
+drug selection, and (2) make evidence-based recommendations
+regarding screening for comorbidities in patients with PsA.                         RESULTS
+In this paper, we address select comorbidities that influence                       Impact of comorbidities on treatment outcomes. The search iden-
+treatment selection, the potential for adverse events, and those                    tified 2170 unique articles, of which 143 papers were selected
+that affect quality and length of life. These data were analyzed                    for full-text review. A total of 40 papers met the review criteria.
+to inform treatment selection in the Group for Research and                         Among these, 21 were prospective cohort studies, 11 were
+Assessment of Psoriasis and Psoriatic Arthritis (GRAPPA) treat-                     retrospective cohort studies, 2 were case-control studies, 4 were
+ment recommendations.                                                               before-and-after studies, and 2 were cross-sectional studies. The
+                                                                                    types of comorbidities covered are shown in Table 2. Below we
+METHODS                                                                             summarize the available evidence for each of the selected comor-
+Study design. We used PICO (Patient/Population – Intervention –                     bidities. In Table 3, we summarize the recommendations made
+Comparison/Comparator – Outcome) and performed an evidence review                   by this panel and the voting among the 20 voters.
+to address the following question: among patients with PsA (P), does having
+                                                                                    CVD. A number of studies have demonstrated increased inci-
+comorbidity x (I), compared to not having comorbidity x (C), impact treat-
+ment outcomes, including benefits and harms (O)? Two systematic litera-
+                                                                                    dence and prevalence of CVD in patients with PsA compared
+ture reviews were performed.                                                        to patients without PsA.3 Additionally, several studies have
+Eligibility criteria. Included studies addressed adults with PsA. If the patient
+                                                                                    suggested that the greater the disease activity, the greater cardio-
+population in the study was mixed, over half had to be adults and over              vascular (CV) risk, independent of disease duration and other
+half had to have PsA. Studies also needed to address ≥ 1 of the following           demographic factors.4 Disease Activity in Psoriatic Arthritis
+comorbidities: CVD, obesity, metabolic syndrome, fatty liver disease, mood          (DAPSA) score increases were associated with a higher number
+disorder (anxiety/depression), chronic infections (hepatitis B [HBV],               of CV risk factors.4 In patients with established CVD (coronary
+hepatitis C [HCV], HIV, tuberculosis [TB]/latent TB, fungal infection,              artery disease, previous strokes, and/or myocardial infarctions),
+herpes zoster), malignancy, osteoporosis, and/or FM. Studies included               nonsteroidal antiinflammatory drugs (NSAIDs) pose a chal-
+were comparative studies (nonrandomized), before-and-after studies, and             lenge.5 All NSAIDs confer the same risk of CV events, which
+cohort studies. Qualitative studies, case series and case studies, secondary
+                                                                                    should be considered when prescribing these drugs.5
+evidence from reviews or recommendations, conference abstracts, editorials,
+commentaries, trial protocols, and letters were excluded.                               There is a relative dearth of observational studies to inform the
+    Among these studies, 2 types of questions were addressed. For studies           association of treatment and risk of CVD in patients with PsA.
+examining the effect of a given comorbidity compared to not having the              However, TNFi and methotrexate (MTX) may improve arterial
+comorbidity on treatment response or AEs, the study needed to include a             stiffness, intima-media thickness, and endothelial dysfunction.6
+pharmaceutical intervention. Nondrug, surgical, complementary/alter-                TNFi may reduce the risk for myocardial infarction (MI) in
+native medicine, and service level interventions were not addressed in              patients with PsA.7 However, without randomized controlled
+this review. Additionally, these studies were required to have a response
+                                                                                    trials, there is not yet sufficient evidence to suggest that treat-
+outcome (eg, ACR20/50/70, imaging outcome, patient-reported outcomes
+[PROs], or disease progression measures) or AE outcome (side effects and/
+                                                                                    ment of PsA improves long-term CV risk. For this reason, the
+or AEs). For studies addressing screening, we examined studies addressing           focus remains on identifying and managing individual CV risk
+prevalence, outcomes, or screening methods for the named comorbidities in           factors.
+patients with PsA.                                                                  Obesity and metabolic syndrome. Patients with PsO and those with
+Literature search. Two literature search updates were performed starting            PsA have an increased prevalence of obesity as well as metabolic
+
+
+Campanholo et al                                                                                                                                             427
+
+
+                                                                              Downloaded on March 3, 2026 from www.jrheum.org
+                     Table 1. PICO questions addressed in patients with psoriatic arthritis (PsA).
+
+                     Patient Intervention                            Comparison                      Outcomes
+
+                     PsA       CVD                            Patients without these                 Influences treatment choice
+                               Obesity and metabolic syndrome comorbidities                          (eg, response to therapy or
+                               Fatty liver disease		                                                 adverse events)
+                               Mood disorders		                                                      Comorbidities may be 		
+                               Chronic infections		                                                  worsened by therapy		
+                               Malignancy		
+                               Osteoporosis		
+                               Chronic pain/fibromyalgia		
+
+                     CVD: cardiovascular disease; PICO: Patient/Population – Intervention – Comparison/Comparator – Outcome;
+                     PsA: psoriatic arthritis.
+
+Table 2. Types of comorbidities addressed by full-text manuscripts meeting         from the disease itself since patients with rheumatoid arthritis
+inclusion criteria.                                                                (RA) on the same medication do not have a similar prevalence
+                                                                                   of liver disease.23-26
+Comorbidities                                          No. of Studies
+                                                                                   Chronic HBV and HCV infection. There is limited published
+Concomitant CVD                                              9                     literature on the incidence and prevalence of HBV and HCV
+Obesity + metabolic syndrome                                 10                    in patients with PsA. Costa et al evaluated 15 patients with PsA
+Liver disease (eg, fatty liver/NASH)                         2                     who were positive for HCV and treated with anti-TNF therapy.
+Mood disorders (depression/anxiety)                          5                     All achieved minimal disease activity with low viral load and
+Chronic infections (HBV, HCV, HIV, TB/LTBI,                                        liver enzymes remained stable at 12 months.27 Minimal data
+ fungal, herpes zoster)                                      4
+                                                                                   exist to examine the safety of other biologics in the setting of
+Malignancy (skin cancer, lymphoma, other)                    0
+Osteoporosis                                                 1
+                                                                                   viral hepatitis. When making treatment decisions for these
+Chronic pain/fibromyalgia                                    1                     patients, working with a hepatologist/gastroenterologist is
+Drug survival predictors                                     8                     important. These patients may require concomitant treatment
+Total no. of studies                                         40                    with an approved antiviral medication directed against HBV.
+                                                                                   International recommendations dictate the screening for HBV
+CVD: cardiovascular disease; HBV: hepatitis B virus; HCV: hepatitis C              and hepatitis HCV prior to commencing MTX and biologic
+virus; LTBI: latent tuberculosis infection; NASH: nonalcoholic steatohep-          disease-modifying antirheumatic drugs (bDMARDs), which
+atitis; TB: tuberculosis.
+                                                                                   require periodic testing depending on individual patient risks
+                                                                                   and in areas where these infections are endemic.28,29
+syndrome.8-15 Not only do these comorbidities increase the risk
+for the development of PsO and PsA, but obese patients may                         Mycobacterium tuberculosis infection. There is limited data on
+have a poor response to therapy compared to nonobese patients                      the prevalence of TB in patients with PsA. However, it is well
+and have more disease activity, including higher Psoriasis Area                    known that the incidence of active TB increases in patients
+and Severity Index (PASI) scores.15 Weight loss in obese patients                  receiving TNF inhibitor therapy. The presence of concomitant
+is associated with improved response to therapy.15-17 Patients                     latent TB infection in patients with PsA did not influence the
+with PsA have an increased risk for metabolic syndrome with                        effectiveness of anti-TNF therapy during the follow-up period.30
+low levels of high-density lipoprotein, triglyceride, and total                    Candida infection. Patients with PsA on IL-17 inhibitors have a
+cholesterol.11 Metabolic syndrome is also often associated with                    greater risk for the development of Candida infection. Usually,
+more severe PsA.12,18                                                              these infections are mild to moderate in severity and resolve with
+Liver disease. PsO and PsA are associated with nonalcoholic                        antifungal therapy. Asking patients about Candida infections
+steatohepatitis (NASH), which is closely related to the presence                   and maintaining a high index of suspicion is recommended in
+of metabolic syndrome. Many of the drugs used to treat PsO and                     patients using these therapies. Asking about Candida infections
+PsA are themselves associated with hepatotoxicity, and the pres-                   may be appropriate before starting an IL-17 inhibitor.31-33
+ence of chronic liver disease can make therapy selection more                      Herpes zoster infection. In some studies, patients with PsO and
+difficult. Treatment with NSAIDs, MTX, leflunomide (LEF),                          PsA have higher rates of herpes zoster (HZ) compared to the
+and occasionally TNFi and Janus kinase inhibitors ( JAKi) may                      general population. Patients taking TNFi may present with
+result in hepatotoxicity and abnormalities in liver function                       more severe HZ and the JAKi tofacitinib confers a 2 to 3-fold
+tests.19,20 However, in 1 study, patients with PsA treated with a                  higher risk than patients on anti-TNF therapy for the develop-
+combination of anti-TNF and MTX had a lower risk of hepatic                        ment of HZ.34 Effective inactivated vaccines against HZ are now
+fibrosis than patients treated with MTX alone.21 MTX and LEF                       available and should be considered in this patient population.
+are known to cause liver function abnormalities as well as the                     Depression. Depression is a major health concern in patients with
+development of NASH or NAFLD.22 Liver disease may result                           PsO and PsA. Patients with PsO who have major depression are
+
+
+428                                                                                                                                Comorbidities in PsA
+
+
+                                                                             Downloaded on March 3, 2026 from www.jrheum.org
+Table 3. Summary recommendations relating to comorbidities in patients with PsA.
+
+Identification of Comorbidities                                                                                                                  Agreement, %
+
+CV risk is elevated in patients with PsA. Patients should be screened for CV risk factors and these risk factors should be managed to
+improve CV outcomes in this patient population. Screening for CV risk and risk factors may be accomplished by any of the healthcare
+providers caring for the patient (ie, rheumatologist, dermatologist, cardiologist, PCP).                                                             100
+Several studies have demonstrated that obesity is associated with reduced functional ability, greater psoriasis severity and disease activity,
+and reduced response to therapy. Patients should be encouraged to maintain a healthy weight in order to improve disease activity
+and disease impact.                                                                                                                                  100
+Fatty liver disease is common in patients with PsA, often related to obesity and/or diabetes. This should be considered when
+monitoring LFTs on medication and when selecting therapies that may affect the liver.                                                                100
+Immunomodulatory therapies used in PsA can affect untreated HBV, HCV, or HIV. Patients should be screened for active HBV and
+HCV prior to therapy initiation. Seek gastroenterology/hepatology input regarding the use of antivirals when initiating patients with
+active HCV or active or past HBV on therapy. Patients should likewise be screened for HIV and treatment decisions should be made
+in collaboration with an infectious disease specialist.                                                                                              100
+TB is a serious infection and is common in some parts of the world. Biologic therapies, particularly TNFi, can increase the risk of
+developing active TB. Screening for active or LTBI is recommended prior to initiation of therapy.                                                    100
+Herpes zoster can be a complication of immunomodulatory therapies although this risk appears to be higher with JAKi. Rheumatologists
+should counsel patients about this risk and encourage vaccination prior to starting therapy when accessible.                                         100
+Some of the immunomodulatory therapies and prior phototherapy are associated with an increased risk for nonmelanoma skin cancer.
+Patients should be counseled about this risk and should be encouraged to undergo full skin assessment annually.                                       90
+Osteoporosis surveillance and treatment should be the same in patients with PsA compared to the general population.                                  100
+FM and/or CS is associated with poor QOL and diminished response to therapy. Identification and management of FM/CS may
+improve the patient’s overall QOL and diminish treatment cycling.                                                                                    100
+Depression and anxiety have a high prevalence in PsA and are strong negative predictors of joint remission in patients with PsA.
+Screening for mood disorders should be part of the review of systems and patients should be referred to a PCP or a mental health
+provider as needed.                                                                                                                                  100
+Comorbidities and Treatment Selection
+NSAIDs may increase the risk for CVD and should be used with caution in this population. Patients with PsA and established CVD
+using NSAIDs should be counseled about this potential risk and NSAIDs should be avoided, if possible.                                                 90
+Avoid TNFi in patients with NYHA stage III or IV heart failure.                                                                                      100
+In patients with risk factors for VTE (ie, diabetes, treatment with corticosteroids, older age), consider avoiding the use of a JAKi.                100
+Patients with obesity have a higher prevalence of fatty liver disease. For this reason, patients initiating MTX or LEF should be counseled
+on the increased probability of elevated LFTs with these medications and LFTs should be monitored more carefully in this
+population.                                                                                                                                          100
+Avoid MTX or LEF in the setting of fatty liver disease.                                                                                               90
+Avoid MTX or LEF in the setting of active HBV or active HCV.                                                                                         100
+Avoid using TNFi in patients with PsA and MS and/or demyelinating disease.                                                                           100
+CS: central sensitization; CV: cardiovascular; CVD: cardiovascular disease; FM: fibromyalgia; HBV: hepatitis B virus; HCV: hepatitis C virus; JAKi: Janus
+kinase inhibitor; LEF: leflunomide; LFT: liver function test; LTBI: latent tuberculosis infection; MS: multiple sclerosis; MTX: methotrexate; NSAID: non-
+steroidal antiinflammatory drug; NYHA: New York Heart Association; PCP: primary care provider; PsA: psoriatic arthritis; QOL: quality of life; TB: tuber-
+culosis; TNFi: tumor necrosis factor inhibitor; VTE: venous thromboembolism.
+
+
+at an increased risk for the development of PsA.35 The prevalence                     treatment between 2001 and 2011 with 28,164 TNFi-naïve
+of depression is much higher in patients with PsA than in those                       patients with SpA, matched to a general population compar-
+with PsO but without PsA.36 Data from the DANBIO registry                             ator cohort of 131,687 subjects.42 It was found that TNFi was
+showed that patients with depression and anxiety have higher                          not associated with increased risks of cancer, neither overall nor
+disease activity scores at baseline and shorter persistence on                        for the 6 most common cancer types including prostate, lung,
+treatment.37 Depression is an important comorbidity and needs                         colorectal, breast, lymphoma, and melanoma.42 Moreover, there
+to be identified, diagnosed, and treated appropriately as it can                      was no increased risk of malignancy in the overall SpA popula-
+lead to increased work disability, loss of income, and decreased                      tion. Thus, PsA does not seem to be associated with an elevated
+health-related quality of life in patients with PsA. Appropriate                      risk of common malignancies in general. There are signals in
+psychiatric assessment and management are important.                                  trials and in cohort studies that nonmelanoma skin cancer may
+Malignancies. The risk of development of malignancies in                              be elevated in patients using immunomodulatory medications.43
+patients with PsA is low.38 However, there is a relative dearth of                    Osteoporosis. The inflammatory arthritides are generally asso-
+information in this regard. In general, the rates of malignancy                       ciated with an increased risk of osteoporosis. However, unlike
+in patients with PsA are no different from that in the general                        RA, where the link between RA and osteoporosis is well estab-
+population.39-41 A previous study compared 8703 patients with                         lished, the literature is unclear about the risk of osteoporosis
+spondyloarthritis (SpA), including PsA, commencing TNFi                               in patients with PsA. A cross-sectional study of an outpatient
+
+
+Campanholo et al                                                                                                                                                429
+
+
+                                                                            Downloaded on March 3, 2026 from www.jrheum.org
+population of patients with PsA showed that these patients                   influenza, pneumococcal, HAV and HBV, and toxoid tetanus
+were not at greater risk for the development of osteoporosis                 vaccinations.50 Current recommendations suggest avoiding
+compared to the general population.44 Therefore, the authors                 live vaccinations in patients who are immunosuppressed. For
+suggested that screening for osteoporosis in PsA should follow               this reason, it is often best to encourage patients to get vacci-
+the same recommendations and guidelines as the general popu-                 nations prior to starting therapy as long as therapy will not be
+lation. A Canadian longitudinal study cohort confirmed osteo-                significantly delayed (ie, ideally 4 to 6 weeks before). Finally,
+penia in 45.3% and osteoporosis in 12.9% of patients with PsA,               we are still learning about the impact of therapies used to treat
+a prevalence similar to the general population.45 Polyarticular              PsA on COVID-19 vaccination. The American College of
+disease was associated with worse bone mineral density, whereas              Rheumatology (ACR) has published recommendations on
+biologic therapy and obesity seem to be protective against oste-             vaccination for patients with rheumatic disease and will continue
+oporosis.45 The above 2 studies suggest that osteoporosis is not a           to update these recommendations as data accumulate.
+significant comorbidity in patients with PsA. However, patients              Reproductive health. We have not focused on reproductive
+with high disease activity, especially those with polyarticular              health in this article, but family planning should naturally be
+disease, should have regular dual-energy x-ray absorptiometry                taken into account in therapy selection and solicited as a part
+monitoring. Recommendations/guidelines for osteoporosis                      of a comprehensive history. Several of our therapies are consid-
+surveillance should be the same in patients with PsA as those for            ered safe during pregnancy whereas others are harmful to the
+the general population.                                                      fetus, and some may be present in breast milk. The ACR recently
+Multiple sclerosis. The data in the literature regarding the associa-        released guidance for the management of reproductive health in
+tion of multiple sclerosis and PsO or PsA is contradictory. There            rheumatic and musculoskeletal diseases.51 This paper includes
+are some studies which support the association while others do               considerations for prescribing therapy during preconception,
+not.46 TNFi are not recommended for use in patients with a                   pregnancy, and lactation.
+personal history of demyelinating disease. On the other hand,                Research agenda. In reality, little evidence exists to inform the
+there is a body of evidence that suggests the pathogenic role of             interactions between comorbidities and therapeutic interven-
+IL-17 and Th17 in the development of multiple sclerosis and a                tions in PsA. There remains much to learn about comorbidities
+previous proof-of-concept study found some mild benefit and                  in the setting of PsA and the effect on treatment responses, as
+did not demonstrate harm.47                                                  well as long-term outcomes. Suggestions for future research
+Venous thromboembolic disease. There are several published                   agendas (Table 4) should aim to identify the effect of modifying
+studies which point to the increased risk of venous thrombo­                 comorbidities on patient outcomes, develop adjunct therapies
+embolism (VTE) in patients with PsO and PsA. However,                        that improve PsA outcomes through treating comorbidities,
+the link between VTE and PsA is tenuous.48 Obesity, CVD,                     develop methods for identifying and managing comorbidities,
+increased platelet aggregation, NSAID use, and other traditional             and improve understanding of the effect of comorbidities on
+VTE risk factors in patients with PsA should be considered.                  treatment selection.
+Fibromyalgia. FM and/or central sensitization affects approx-
+imately 20 to 30% of patients with PsA compared to approx-                   DISCUSSION
+imately 6% of adults in the general population.49 PROs                       Comorbidities are important for understanding the “whole
+including entheseal tenderness and the tender joint count, used              patient” with PsA sitting in front of us. They affect the patient’s
+in measuring disease activity of PsA, may be influenced by the               quality of life and in some cases, the quantity of life. Further,
+presence of FM. For example, patients with FM consistently                   certain comorbidities impact either the effectiveness of a given
+have higher PRO scores and entheseal tenderness regardless of                therapy or the potential for AEs. In this evidence review, we
+the level of clinician-assessed disease activity. This is particularly       examined the impact of individual comorbidities on treatment
+                                                                             response and AEs as well as the potential opportunities to screen
+important to recognize when applying a treat-to-target strategy,
+                                                                             for individual comorbidities.
+as patients with FM may be subject to overtreatment. In a patient
+                                                                                 As a working group, we developed several key recommen-
+with PsA and FM who has elevated PROs but an absence of joint
+                                                                             dations that were agreed upon by at least 90% of the group
+swelling, switching therapies may not be appropriate. However,
+                                                                             members. Enacting these recommendations in clinical practice
+in a patient with FM and active PsA (ie, joint swelling is present),
+                                                                             begins with a comprehensive history and physical examination.
+treatment selection should proceed as for any other patient with
+                                                                             Additional testing may then be carried out. As a group, we recog-
+active PsA.
+                                                                             nize that in clinical practice there may be barriers to carrying out
+Vaccination. Because many of the therapies used to treat PsA                 all these recommendations, with lack of time being the most
+are associated with an increased risk for infection, vaccina-                common and problematic. It is important to recognize that not
+tions can provide protection from some serious infections such               all these recommendations need to be completed in a single visit,
+as influenza, pneumonia, HZ, and coronavirus disease 2019                    nor by a single clinician. It may be that most of the history is
+(COVID-19). In 2019, the European Alliance of Associations                   acquired on the first visit and screening takes place over the next
+for Rheumatology (EULAR) updated vaccination recommen-                       several visits. Alternatively, it may be that the rheumatologist
+dations for patients with autoimmune inflammatory rheumatic                  educates the patient and the primary care physician (PCP) that
+diseases.50 In these recommendations, EULAR advocated for                    these screenings are recommended, and then the PCP addresses
+
+
+430                                                                                                                           Comorbidities in PsA
+
+
+                                                                         Downloaded on March 3, 2026 from www.jrheum.org
+Table 4. Suggested future research agendas for patients with PsA.
+
+Comorbid Condition                                     Suggested Research Agendas
+
+CV and metabolic disease                               Ideal methods for CV risk screening in PsA
+                                                       Impact of disease activity and PsA therapies on CV risk
+                                                       Dietary changes and the microbiome impact on PsA disease activity and metabolic comorbidities
+                                                       Effect of modifying obesity and metabolic disease on response to therapy and overall disease activity
+                                                       Effect of fatty liver disease on PsA disease activity
+                                                       Treatment of fatty liver disease in PsA
+                                                       Methods for modifying CV risk in PsA
+VTE                                                    Risk for VTE on therapy among patients with PsA
+Chronic pain, FM, depression and anxiety               Mental health and sleep and the impact on disease activity and therapy response
+                                                       Effect of FM on treatment outcomes and the best treatment options in the setting of PsA + FM
+                                                       Methods for assessing PsA disease activity in the setting of FM
+Infections                                             COVID-19 in PsA and therapy outcomes
+                                                       Efficacy of herpes zoster vaccination in preventing herpes zoster in patients with PsA on JAKi
+Vaccinations                                           Timing of vaccinations, which ones to prioritize, and the safety of vaccines in patients with PsA on
+                                                       therapy
+                                                       Effect of COVID-19 vaccination on disease activity
+                                                       Effect of therapy on vaccine response in PsA
+
+COVID-19: coronavirus disease 2019; CV: cardiovascular; FM: fibromyalgia; JAKi: Janus kinase inhibitors; PsA: psoriatic arthritis; VTE: venous
+thromboembolism.
+
+
+and manages the comorbidities once identified. Ideally, care of                           MT. Cardiovascular comorbidities in patients with psoriatic arthritis: a
+a patient with PsA is collaborative and involves the patient, the                         systematic review. Ann Rheum Dis 2013;72:211-6.
+rheumatologist, the dermatologist, and the PCP (and/or cardi-                        4.   Ferraz-Amaro I, Prieto-Peña D, Palmou-Fontana N, et al. The
+                                                                                          number of traditional cardiovascular risk factors is independently
+ologist, hepatologist, infectious disease provider, etc.).
+                                                                                          correlated with disease activity in patients with psoriatic arthritis.
+    While there are strengths in this process, there are also limita-                     Medicina 2020;56:415.
+tions. The recommendations are only as strong as the data that                       5.   Nissen SE, Yeomans ND, Solomon DH, et al. Cardiovascular safety
+form the basis for their formation. There remain knowledge gaps                           of celecoxib, naproxen, or ibuprofen for arthritis. N Engl J Med
+in the identification, management, and implications of comor-                             2016;375:2519-29.
+bidities in PsA. Many studies have limited numbers of patients                       6.   Deyab G, Hokstad I, Whist JE, et al. Methotrexate and anti-tumor
+or limited follow-up and ultimately no clinical trials address the                        necrosis factor treatment improves endothelial function in patients
+                                                                                          with inflammatory arthritis. Arthritis Res Ther 2017;19:232.
+topics covered in this paper. There may be publication bias in the
+                                                                                     7.   Eder L, Joshi AA, Dey AK, et al. Association of tumor necrosis
+types of publications available for this review, including publica-                       factor inhibitor treatment with reduced indices of subclinical
+tions showing associations between PsA and the comorbidities                              atherosclerosis in patients with psoriatic disease. Arthritis
+studied. Regardless, the prevalence of these conditions is known                          Rheumatol 2018;70:408-416.
+to be elevated to such a degree that addressing these conditions                     8.   Sharma A, Gopalakrishnan D, Kumar R, Vijayvergiya R, Dogra S.
+remains important. There is much work to do to improve our                                Metabolic syndrome in psoriatic arthritis patients: a cross-sectional
+understanding of how best to screen for, manage, and prevent                              study. Int J Rheum Dis 2013;16:667-73.
+                                                                                     9.   Li W, Han J, Qureshi AA. Obesity and risk of incident psoriatic
+comorbidities in patients with PsA.
+                                                                                          arthritis in US women. Ann Rheum Dis 2012;71:1267-72.
+    In summary, we hope that the recommendations from the                           10.   Caso F, Del Puente A, Oliviero F, et al. Metabolic syndrome in
+comorbidity working group will assist clinicians in identifying                           psoriatic arthritis: the interplay with cutaneous involvement.
+important comorbidities and considering their effects on treat-                           Evidences from literature and a recent cross-sectional study. Clin
+ment selection.                                                                           Rheumatol 2018;37:579-586.
+                                                                                    11.   Özkan SG, Yazısız H, Behlül A, Gökbelen YA, Borlu F, Yazısız V.
+ONLINE SUPPLEMENT                                                                         Prevalence of metabolic syndrome and degree of cardiovascular
+Supplementary material accompanies the online version of this article.                    disease risk in patients with psoriatic arthritis. Eur J Rheumatol
+                                                                                          2017;4:40-5.
+                                                                                    12.   Haroon M, Gallagher P, Heffernan E, FitzGerald O. High
+REFERENCES                                                                                prevalence of metabolic syndrome and of insulin resistance in
+  1. Ballegaard C, Højgaard P, Dreyer L, et al. Impact of comorbidities                   psoriatic arthritis is associated with the severity of underlying
+      on tumor necrosis factor inhibitor therapy in psoriatic arthritis: a                disease. J Rheumatol 2014;41:1357-65.
+      population-based cohort study. Arthritis Care Res 2018;70:592-9.              13.   Pehlevan S, Yetkin DO, Bahadır C, et al. Increased prevalence of
+  2.		Kavanaugh A, Coates LC, van der Windt DA, Corp N, Soriano ER.                       metabolic syndrome in patients with psoriatic arthritis. Metab Syndr
+      GRAPPA treatment recommendations: Updates and methods.                              Relat Disord 2014;12:43-8.
+      J Rheumatol Suppl 2020;96:41-45.                                              14.   Raychaudhuri SK, Chatterjee S, Nguyen C, Kaur M, Jialal I,
+  3. Jamnitski A, Symmons D, Peters MJ, Sattar N, McInnes I, Nurmohamed                   Raychaudhuri SP. Increased prevalence of the metabolic syndrome
+
+
+
+Campanholo et al                                                                                                                                              431
+
+
+                                                                         Downloaded on March 3, 2026 from www.jrheum.org
+      in patients with psoriatic arthritis. Metab Syndr Relat Disord                   33. Mease P, Roussou E, Burmester GR, et al. Safety of ixekizumab in
+      2010;8:331-4.                                                                        patients with psoriatic arthritis: Results from a pooled analysis of
+15.   Gisondi P, Del Giglio M, Di Francesco V, Zamboni M, Girolomoni                       three clinical trials. Arthritis Care Res 2019;71:367-378.
+      G. Weight loss improves the response of obese patients with                      34. Zisman D, Bitterman H, Shalom G, et al. Psoriatic arthritis treatment
+      moderate-to-severe chronic plaque psoriasis to low-dose                              and the risk of herpes zoster. Ann Rheum Dis 2016;75:131-5.
+      cyclosporine therapy: a randomized, controlled, investigator-blinded             35. Lewinson RT, Vallerand IA, Lowerison MW, et al. Depression
+      clinical trial. Am J Clin Nutr 2008;88:1242-7.                                       is associated with an increased risk of psoriatic arthritis among
+16.   Di Minno MN, Peluso R, Iervolino S, et al. Weight loss and                           patients with psoriasis: a population-based study. J Invest Dermatol
+      achievement of minimal disease activity in patients with psoriatic                   2017;137:828-835.
+      arthritis starting treatment with tumour necrosis factor α blockers.             36. McDonough E, Ayearst R, Eder L, et al. Depression and anxiety
+      Ann Rheum Dis 2014;73:1157-62.                                                       in psoriatic disease: prevalence and associated factors. J Rheum
+17.   Klingberg E, Bilberg A, Björkman S, et al. Weight loss improves                      2014;41:887-896.
+      disease activity in patients with psoriatic arthritis and obesity: an            37. Ballegaard C, Højgaard P, Dreyer L, et al. Impact of comorbidities
+      interventional study. Arthritis Res Ther 2019; 21:17.                                on tumor necrosis factor inhibitor therapy in psoriatic arthritis: a
+18.   Bergman M, Lundholm A. Mitigation of disease- and treatment-related                  population-based cohort study. Arthritis Care Res 2018;70:592-9.
+      risks in patients with psoriatic arthritis. Arthritis Res Ther 2017;19:63.       38. Hagberg KW, Li L, Peng M, Paris M, Shah K, Jick SS. Rates of
+19.   Langman G, Hall PM, Todd G. Role of non-alcoholic steatohepatitis                    cancers and opportunistic infections in patients with psoriatic
+      in methotrexate-induced liver injury. J Gastroenterol Hepatol                        arthritis compared with patients without psoriatic arthritis. J Clin
+      2001;16:1395-401.                                                                    Rheumatol 2016;22:241-7.
+20.   Sokolove J, Strand V, Greenberg JD, et al. Risk of elevated liver                39. Thompson AE, Rieder SW, Pope JE. Tumor necrosis factor therapy
+      enzymes associated with TNF inhibitor utilisation in patients with                   and the risk of serious infection and malignancy in patients with
+      rheumatoid arthritis. Ann Rheum Dis 2010;69:1612-7.                                  early rheumatoid arthritis: a meta-analysis of randomized controlled
+21.   Seitz M, Reichenbach S, Möller B, Zwahlen M, Villiger PM, Dufour                     trials. Arthritis Rheum 2011;63:1479-85.
+      JF. Hepatoprotective effect of tumour necrosis factor alpha blockade             40. Rohekar S, Tom BD, Hassa A, Schentag CT, Farewell VT, Gladman
+      in psoriatic arthritis: a cross-sectional study. Ann Rheum Dis                       DD. Prevalence of malignancy in psoriatic arthritis. Arthritis Rheum
+      2010;69:1148-50.                                                                     2008;58:82-7.
+22.   Mori S, Arima N, Ito M, Fujiyama S, Kamo Y, Ueki Y. Non-alcoholic                41. Ogdie A, Maliha S, Shin D, et al. Cause-specific mortality in patients
+      steatohepatitis-like pattern in liver biopsy of rheumatoid arthritis                 with psoriatic arthritis Rheumatology 2017;56:907-11.
+      patients with persistent transaminitis during low-dose methotrexate              42. Hellgren K, Dreyer L, Arkema EV, et al. Cancer risk in patients with
+      treatment. PLoS One 2018;13:e0203084.                                                spondyloarthritis treated with TNF inhibitors: a collaborative study from
+23.   Amital H, Arnson Y, Chodick G, Shalev V. Hepatotoxicity rates do                     the ARTIS and DANBIO registers. Ann Rheum Dis 2017;76:105-11.
+      not differ in patients with rheumatoid arthritis and psoriasis treated           43. Luo X, Deng C, Fei Y, et al. Malignancy development risk in
+      with methotrexate. Rheumatol 2009;48:1107-10.                                        psoriatic arthritis patients undergoing treatment: a systematic review
+24.   Curtis JR, Beukelman T, Onofrei A, et al. Elevated liver enzyme tests                and meta-analysis. Semin Arthritis Rheum 2019;48:626-31.
+      among patients with rheumatoid arthritis or psoriatic arthritis treated          44. Gulati AM, Michelsen B, Diamantopoulos A, et al. Osteoporosis
+      with methotrexate and/or leflunomide. Ann Rheum Dis 2010;69:43-7.                    in psoriatic arthritis: a cross-sectional study of an outpatient clinic
+25.   Tilling L, Townsend S, David J. Methotrexate and hepatic toxicity                    population. RMD Open 2018;4:e000631.
+      in rheumatoid arthritis and psoriatic arthritis. Clin Drug Invest                45. Kwok TS, Sutton M, Ye JY, Pereira D, Chandran V, Gladman
+      2006;26:55-62.                                                                       DD. Prevalence and factors associated with osteoporosis and
+26.   Ogdie A, Grewal SK, Noe MH, et al. Risk of incident liver disease in                 bone mineral density testing in psoriatic arthritis. Arthr Care Res
+      patients with psoriasis, psoriatic arthritis, and rheumatoid arthritis:              2022;74:1006-12.
+      A population-based study. J Invest Dermatol 2018;138:760-7.                      46. Liu CY, Tung TH, Lee CY, Chang KH, Wang SH, Chi CC.
+27.   Costa L, Caso F, Atteno M, et al. Long-term safety of anti-TNF-α                     Association of multiple sclerosis with psoriasis: a systematic review
+      in PsA patients with concomitant HCV infection: a retrospective                      and meta-analysis of observational studies. Am J Clin Dermatol
+      observational multicenter study on 15 patients. Clin Rheumatol                       2019;20:201-8.
+      2014;33:273-6.                                                                   47. Havrdová E, Belova A, Goloborodko A, et al. Activity of secukinumab,
+28.   Menter A, Gelfand JM, Connor C, et al. Joint American Academy                        an anti-IL-17A antibody, on brain lesions in RRMS: results from a
+      of Dermatology-National Psoriasis Foundation guidelines of care for                  randomized, proof-of-concept study. J Neurol 2016;263:1287-95.
+      the management of psoriasis with systemic nonbiologic therapies.                 48. Ogdie A, Kay-McGill N, Shin DB, et al. Risk of venous
+      J Am Acad Dermatol 2020;82:1445-86.                                                  thromboembolism in patients with psoriatic arthritis, psoriasis and
+29.   Menter A, Strober BE, Kaplan DH, et al. Joint AAD-NPF                                rheumatoid arthritis: a general population-based cohort study. Eur
+      guidelines of care for the management and treatment of psoriasis                     Heart J 2018;39:3608-14.
+      with biologics. J Am Acad Dermatol 2019;80:1029-72.                              49. Magrey MN, Antonelli M, James N, Khan MA. High frequency
+30.   Atteno M, Costa L, Matarese A, et al. The use of TNF-α blockers                      of fibromyalgia in patients with psoriatic arthritis: a pilot study.
+      in psoriatic arthritis patients with latent tuberculosis infection. Clin             Arthritis 2013;2013:762921.
+      Rheumatol 2014;33:543-7.                                                         50. Furer V, Rondaan C, Heijstek MW, et al. 2019 update of
+31.   Mease PJ, McInnes IB, Kirkham B, et al. Secukinumab inhibition of                    EULAR recommendations for vaccination in adult patients with
+      interleukin-17A in patients with psoriatic arthritis. N Engl J Med                   autoimmune inflammatory rheumatic diseases. Ann Rheum Dis
+      2015;373:1329-39.                                                                    2020;79:39-52.
+32.   McInnes IB, Mease PJ, Kirkham B, et al. Secukinumab, a human                     51. Sammaritano LR, Bermas BL, Chakravarty EE. 2020 American
+      anti-interleukin-17A monoclonal antibody, in patients with psoriatic                 College of Rheumatology Guideline for the management of
+      arthritis (FUTURE 2): a randomised, double-blind,                                    reproductive health in rheumatic and musculoskeletal diseases.
+      placebo-controlled, phase 3 trial. Lancet 2015;386:1137-46.                          Arthritis Rheumatol 2020;72:529-56.
+
+
+
+
+432                                                                                                                                           Comorbidities in PsA
+
+
+                                                                                   Downloaded on March 3, 2026 from www.jrheum.org
+

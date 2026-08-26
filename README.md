@@ -16,6 +16,7 @@ for rheumatologists who want to actually build with this technology, not just re
 | Project | What it is | Why a clinician should care |
 |---|---|---|
 | [`ornith-blackwell-vllm/`](ornith-blackwell-vllm/) | Serve a 35B open model on two consumer GPUs: 838 tok/s across 8 parallel agents, 262k context each | Run capable AI **privately**, on hardware you control, with no patient data leaving the room. Includes an 8-agent demo grounded on the full GRAPPA 2021 PsA recommendations |
+| [`omlx-ornith-m5-ultra/`](omlx-ornith-m5-ultra/) | Ornith 1.5 on a Mac (oMLX, Hermes, OpenCode): measured TTFT and tok/s on an M4 Max, single stream and 8 agents, projected for the Mac Studio M5 Ultra, compared with 1x and 4x DGX Spark (synthetic prompts, no GRAPPA grounding) | What a local AI workstation for a clinic will actually feel like: first-token wait, agents in parallel, and what 512 GB buys, with every assumption written down |
 
 More coming: prompt patterns for clinical literature work, retrieval setups for guideline
 corpora, agent workflows for systematic reviews, and small scripts that remove friction
